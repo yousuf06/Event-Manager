@@ -1,0 +1,46 @@
+.logo {
+    width: 150px;
+    height: 70px;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+.home-link-button {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.add-event-link-button {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about-link-button {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.btech-events-link-button {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bba-events-link-button {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.law-events-link-button {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mission-paragraph {
+    margin-left:45px;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    font-size: 90px;
+    line-height: 10px;
+    margin-top: 150px;
+
+}
+.mission-paragraph span {
+    background-image: linear-gradient(to right, #393185, #e31e24);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
